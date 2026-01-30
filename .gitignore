@@ -9,3 +9,7 @@ x64/
 
 # Mac finder
 .DS_Store
+bin
+bin-int
+*.filters
+*.vcxproj
